@@ -11,4 +11,8 @@
     <toc-element topic="disease.md"/>
     <toc-element topic="cause.md"/>
     <toc-element topic="cure.md"/>
+    <toc-element topic="inheritance.md"/>
+    <toc-element topic="self-healing.md"/>
+    <toc-element topic="adultadhd.md"/>
+    <toc-element topic="birth.md"/>
 </instance-profile>
