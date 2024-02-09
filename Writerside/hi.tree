@@ -8,7 +8,7 @@
 
     <toc-element topic="ADHD.md"/>
     <toc-element topic="What-is-ADHD.md"/>
-    <toc-element topic="ADHD病症.md"/>
-    <toc-element topic="ADHD病因.md"/>
-    <toc-element topic="治疗.md"/>
+    <toc-element topic="disease.md"/>
+    <toc-element topic="cause.md"/>
+    <toc-element topic="cure.md"/>
 </instance-profile>

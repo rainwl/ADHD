@@ -2,8 +2,8 @@
 
 [ADHD概述](What-is-ADHD.md)
 
-[ADHD病症](ADHD病症.md)
+[ADHD病症](disease.md)
 
-[ADHD病因](ADHD病因.md)
+[ADHD病因](cause.md)
 
-[ADHD治疗](治疗.md)
+[ADHD治疗](cure.md)
