@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE rules SYSTEM "https://resources.jetbrains.com/writerside/1.0/redirection-rules.dtd">
+<rules>
+    <!-- format is as follows
+    <rule id="<unique id>">
+        <accepts>page.html</accepts>
+    </rule>
+    -->
+    <rule id="7ba9a8f5">
+        <description>Created after removal of "什么是ADHD" from Help Instance</description>
+        <accepts>什么是ADHD.html</accepts>
+    </rule>
+    <rule id="2b4ccf10">
+        <description>Created after removal of "x" from Help Instance</description>
+        <accepts>x.html</accepts>
+    </rule>
+</rules>
